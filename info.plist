@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Zafu</string>
+	<key>ordering</key>
+	<array>
+		<string>D2A8B261-C143-44CF-AB3C-5CCF56683A88</string>
+	</array>
+	<key>uuid</key>
+	<string>323C16FF-5C65-47D5-8455-54B3D45523A4</string>
+</dict>
+</plist>
