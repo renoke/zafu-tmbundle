@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:checkbox values='${1:1}' name='${2:attr_name}' tshow='${3:label}' /&gt;
+</string>
+	<key>name</key>
+	<string>check</string>
+	<key>tabTrigger</key>
+	<string>check</string>
+	<key>uuid</key>
+	<string>52ACAFBE-616F-4704-AB50-4F4C20C5ED8E</string>
+</dict>
+</plist>

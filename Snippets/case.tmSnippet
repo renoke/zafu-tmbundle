@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:case&gt;
+  &lt;r:when test='${1:condition1}'&gt;
+    $2
+  &lt;/r:when&gt;
+  &lt;r:when test='${3:condition2}'&gt;
+    $4
+  &lt;/r:when&gt;
+  &lt;r:else&gt;
+    $5
+  &lt;/r:else&gt;
+&lt;/r:case&gt;
+</string>
+	<key>name</key>
+	<string>case</string>
+	<key>tabTrigger</key>
+	<string>case</string>
+	<key>uuid</key>
+	<string>48909558-CAE7-47F4-9DF2-FF827A32A5DE</string>
+</dict>
+</plist>

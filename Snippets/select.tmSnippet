@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:select name='${1:attr_name}' nodes='${2:querybuilder}' /&gt;
+</string>
+	<key>name</key>
+	<string>select</string>
+	<key>tabTrigger</key>
+	<string>select</string>
+	<key>uuid</key>
+	<string>0B87E09D-D78D-4472-8BB5-590EFC0ADC3F</string>
+</dict>
+</plist>

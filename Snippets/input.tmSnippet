@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;r:input label='t' name='${1:attr_name}' /&gt;
+</string>
+	<key>name</key>
+	<string>input</string>
+	<key>tabTrigger</key>
+	<string>input</string>
+	<key>uuid</key>
+	<string>FD39EE73-E9F0-4C50-9601-AC583B91292D</string>
+</dict>
+</plist>
