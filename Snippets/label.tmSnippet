@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;r:select tlabel='$1' ${2:name}='${3:attr_name}' nodes='${4:querybuilder}' attr='${5:title}'/&gt;
+	<string>&lt;label ${1:do='t'}&gt;$2&lt;/label&gt;
 </string>
 	<key>name</key>
-	<string>select</string>
+	<string>label</string>
 	<key>tabTrigger</key>
-	<string>select</string>
+	<string>label</string>
 	<key>uuid</key>
-	<string>0B87E09D-D78D-4472-8BB5-590EFC0ADC3F</string>
+	<string>F1C3FFFC-32AB-421E-8648-37B1E19E01E9</string>
 </dict>
 </plist>
