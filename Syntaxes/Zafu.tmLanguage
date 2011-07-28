@@ -228,7 +228,7 @@
 			<array>
 				<dict>
 					<key>match</key>
-					<string>\b(do|if|else|elsif|part|attr|test|mode|template|eval|with|link|include|blank|t|for|case|when|void|nodes|tshow|name|r:input|r:select|r:checkbox|r:textarea|type|tlabel|time|date)\b</string>
+					<string>\b(do|if|else|elsif|part|attr|test|mode|template|eval|with|link|include|blank|t|for|case|when|void|nodes|tshow|name|r:input|r:select|r:checkbox|r:textarea|type|tlabel|time|date|param|live|update)\b</string>
 					<key>name</key>
 					<string>keyword.control.zafu</string>
 				</dict>
